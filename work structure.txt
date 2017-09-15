@@ -1,0 +1,48 @@
+Part I Information Gathering
+
+this part will need following tasks to be done(I think):
+
+1. Survey - 
+	this team will perform some surveys on students asking them questions and keeping the records. they can do it online or manually. the questionnaire has to be created before the survey.
+
+2. Research one.iu.edu - 
+	this team will thoroughly check one.iu.edu and come up with a list of services which can be used from this structure like information about classified,IUCAT,doublemap,etc.
+
+3. Interviews -
+	this team will talk with ISA, CSA and other student organizations and list the resources they can provide for the new students. also they will note down about various events or festival thingies each of these organizations hold.
+
+4. Data mining -
+	it is possible to go through SOPs of student to know their interests, hobbies, etc. this team will try to find a suitable algorithm to do that and assess the cost of implementation for such stuff.
+
+5. Food team -
+	this team will gather information about various cuisines BL has to offer and conduct some kind of survey which will help to categorize the restaurents based on cuisines offered, their ratings for food, prices, vegan/veg/non veg, etc.
+	basically, they can gather this data manually or by using websites like yelp.com
+
+6. Other BL organizations - 
+	this team will contact BL International Student Ministeries, First United Church or other such organizations which help students in one way or another and try to gather some information from them like BISM pickups,free furniture events, etc.
+
+7. IU -
+	this team will gather information about SRSC,IUcinema and other facillities provided by IU.they should also keep track of the regional movies shown. they will gather information about sports organizations like cricket club and hobby clubs as well.    
+
+8. Academic -
+	this team will include everyone or a team of two who will perform the task. the task here being gathering information about various departments in IU and what kind of courses a student should take to acquire specific set of skills.(what courses to tak if you want to be a network admin/developer/system admin/etc)
+ 
+Part II Technical Team
+
+Prototype Development -
+	this team will create a list of data structures to be used for database, they will also design a basic structure of the database. besides this, they also have to create an estimate and timeframe for the development team.
+	this team will also create questionnaires for the survey team which will help them know what needs to be asked. 
+
+Part III Documentation Team
+	this team will do all the documentations involved and it will also contact the client.
+
+
+Assignments to be done -
+Client contact
+Gantt charts and Kanban boards
+Interviews
+preliminary business process map
+anything else?
+
+a team will generally consists of two members(depending upon task). these 2 members must have skills required for that task and interested in that task as well. e.g. data mining will have subbu and one other who is interested in that while task 6 can have subbu(as he knows about BISM) and some other member. So, the teams are made based on the task, not the other way around.
+

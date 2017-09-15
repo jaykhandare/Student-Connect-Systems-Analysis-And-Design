@@ -1,0 +1,9 @@
+1. deciding the method to use for Gantt chart (Teamgantt.com or excel or mine excel or juyoung (auiproject.com)) - excel
+
+2. data mining idea put forward by Subbu
+
+3. creating Gantt chart
+
+
+semi devils and demigods
+

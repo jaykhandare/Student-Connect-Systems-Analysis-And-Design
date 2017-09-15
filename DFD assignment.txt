@@ -1,0 +1,31 @@
+entities
+=============
+student
+professor
+department
+IU admin
+
+
+databases
+=============
+
+student db(stud_id,course_history,halts,cgpa,department)
+professor db(prof_id,interest,timings_ok_with,related_course_id)
+course db (course_id, prof_id, time, department, loc, no_of_students, pre requisites)
+enrollment db(stud_id,course_id,)
+
+
+prospective processes
+========================
+
+1. department talking to professor and creating course db(in - professor db)
+
+2. providing course db to students
+
+3. students create cart(temporary db)
+
+4. items of cart are checked for validation(in - student db)
+
+5. student is enrolled in that course(out - enrollment db)
+
+6. no. of students in a course are updated once a student is enrolled(out - course db)
